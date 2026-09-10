@@ -1,0 +1,9 @@
+Package: org.openvk.ios6
+Name: OpenVK Latte
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: OpenVK Latte client for iOS 6 built with Theos + APLSlideMenu
+Maintainer: you
+Author: you
+Section: Social
+Depends: firmware (>= 6.0), mobilesubstrate, com.skyglow.tlsfix
